@@ -82,7 +82,7 @@ Indeed, it looks like the whole thing is a rotating rigid body.
 
 
 
-<img src = "/index_files/figure-html/p_2.png" />
+<img src = "/02_rmarkdown/index_files/figure-html/p_2.png" />
 
 
 
