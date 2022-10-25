@@ -4,7 +4,7 @@ author: "Frida Gomam"
 date: "2020-12-01T21:13:14-05:00"
 excerpt: testing the excerpt field
 subtitle: ''
-draft: no
+draft: false
 images: null
 series: null
 tags:

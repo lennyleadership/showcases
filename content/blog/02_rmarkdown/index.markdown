@@ -1,15 +1,16 @@
 ---
-author: Alison Hill
-categories: null
-date: "2020-12-30"
-draft: false
-excerpt: testing the excerpt field
-images: null
-layout: single
-series: null
+weight: 2
+title: "An Rmarkdown post"
 subtitle: ""
-tags: null
-title: An Rmarkdown post
+excerpt: "testing the excerpt field"
+date: 2020-12-30
+author: "Alison Hill"
+draft: false
+images:
+series:
+tags:
+categories:
+layout: single
 ---
 
 
