@@ -8,7 +8,7 @@ images:
 - img/ImageForArticle_22489_16522590766908435.webp
 show_action_link: true
 show_social_links: true
-subtitle: Lenny Lin \n Whiteshell Laboratory and Informatics
+subtitle: Lenny Lin | Whiteshell Laboratory and Informatics
 text_align_left: false
 title: R in Laboratory
 type: home
