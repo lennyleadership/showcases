@@ -69,4 +69,4 @@ print(p_2)
 
 
 
-<img width = "540" src = "/2020-12-01-r-rmarkdown/index_files/figure-html/p_2.png"/>
+
