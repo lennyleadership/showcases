@@ -5,7 +5,7 @@ action_type: text
 description: I am a lab rat. <br>I am a tech geek. <br>I believe in the power of the R applications in laboratory.
 image_left: true
 images:
-- img/R&D-lab-caricature.jpg
+- img/ImageForArticle_22489_16522590766908435.webp
 show_action_link: true
 show_social_links: true
 subtitle: Whiteshell Laboratory and Informatics
