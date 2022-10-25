@@ -8,7 +8,7 @@ images:
 - img/R&D-lab-caricature.jpg
 show_action_link: true
 show_social_links: true
-subtitle: The future of the laboratory is now
+subtitle: Whiteshell Laboratory and Informatics
 text_align_left: false
 title: R in Laboratory
 type: home
