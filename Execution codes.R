@@ -1,6 +1,6 @@
 library(blogdown)
 
-blogdown::new_site(theme = "alex-shpak/hugo-book")
+blogdown::new_site(theme = "hugo-apero/hugo-apero")
 
 
 blogdown::build_site()
@@ -26,7 +26,7 @@ blogdown::find_hugo()
 # Step #4: Create a new project at RStudio.
 # new project -> Version control -> Git -> Repository URL -> paste the URL, create project as subdirectory of ...
 # in Console, type:
-#  blogdown::new_site(theme = "alex-shpak/hugo-book")
+#  blogdown::new_site(theme = "hugo-apero/hugo-apero")
 
 
 #----

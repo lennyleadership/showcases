@@ -1,31 +1,14 @@
 ---
 title: "Hello R Markdown"
 author: "Frida Gomam"
-date: "2020-12-01T21:13:14-05:00"
-excerpt: testing the excerpt field
-subtitle: ''
-draft: false
-images: null
-series: null
-tags:
-- R Markdown
-- plot
-- regression
-categories: R
-layout: single
+date: 2020-12-01T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
 ---
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
-
-```{r, include=F}
-library(ggplot2)
-library(dplyr)
-library(tidyverse)
-```
-
 
 # R Markdown
 
@@ -52,22 +35,3 @@ pie(
   init.angle = -50, border = NA
 )
 ```
-
-
-
-
-
-
-Indeed, it looks like the whole thing is a rotating rigid body.
-
-```{r, include=F}
-p_2 <- ggplot(cars, aes(x = speed, y = dist))+
-  geom_point()
-
-ggsave(plot = p_2, filename = "index_files/figure-html/p_2.png", width = 4, height = 4)
-
-```
-
-
-<img src = "/index_files/figure-html/p_2.png" />
-
