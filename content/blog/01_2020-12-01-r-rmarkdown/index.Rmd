@@ -1,14 +1,17 @@
 ---
 title: "Hello R Markdown"
-subtitle: ""
-excerpt: "testing the excerpt field"
-date: "2020-12-01T21:13:14-05:00"
 author: "Frida Gomam"
-draft: false
-images:
-series:
-tags: ["R Markdown", "plot", "regression"]
-categories: ["R"]
+date: "2020-12-01T21:13:14-05:00"
+excerpt: testing the excerpt field
+subtitle: ''
+draft: no
+images: null
+series: null
+tags:
+- R Markdown
+- plot
+- regression
+categories: R
 layout: single
 ---
 

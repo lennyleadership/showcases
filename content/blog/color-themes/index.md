@@ -1,5 +1,4 @@
 ---
-weight: 11
 author: Alison Hill & Eric Anderson
 categories:
 - Theme Features
