@@ -12,7 +12,7 @@ layout: single
 location: ""
 
 Fractional Factorial Design
-<!--more-->
+
 ---
 
 linear regression model
