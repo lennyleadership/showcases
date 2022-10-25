@@ -54,10 +54,10 @@ Indeed, it looks like the whole thing is a rotating rigid body.
 p_2 <- ggplot(cars, aes(x = speed, y = dist))+
   geom_point()
 
-p_2
+ggsave(plot = p_2, filename = "index_files/figure-html/p_2.png", width = 4, height = 4)
 
 ```
 
 
-
+<img src = "/index_files/figure-html/p_2.png" />
 
