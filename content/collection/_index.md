@@ -1,12 +1,10 @@
 ---
-author: Alison Hill
+author: Lenny Lin
 cascade:
   layout: single-series
   sidebar:
-    author: Alison Hill
-    description: "Sometimes you want a souped-up series- a bundle of related pages
-      \nmeant to be read in sequence. This section is like a blog series, \nminus
-      the blog.\n"
+    author: Lenny Lin
+    description: "It is about the Design of Experiments application in LC-MS/MS."
     show_author_byline: true
     show_post_date: true
     show_sidebar_adunit: true
@@ -15,8 +13,7 @@ cascade:
     text_link_url: ""
     text_series_label: Outline
     title: Create a Collection
-description: "Sometimes you want a souped-up series- a bundle of related pages \nmeant
-  to be read in sequence. This section is like a blog series, \nminus the blog.\n"
+description: ""
 layout: list-sidebar
 show_author_byline: false
 show_post_date: false
