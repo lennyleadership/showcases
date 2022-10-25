@@ -34,9 +34,9 @@ params:
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
-  favicon: /img/favicon.ico
+  favicon: /img/hand-scientist-holding-flask-with-lab-glassware-test-tubes-chemical-laboratory-background_387864-8861.webp
   headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark-dark.png
+  logo: /img/connected-lab.jpg
   mainSections:
     - blog
     - project
