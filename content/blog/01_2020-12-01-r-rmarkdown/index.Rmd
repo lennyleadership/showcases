@@ -35,3 +35,6 @@ pie(
   init.angle = -50, border = NA
 )
 ```
+
+
+<img src = "/A_Blog with R/showcases/content/blog/02_rmarkdown/index_files/figure-html/p_2.png" />
