@@ -3,7 +3,7 @@ weight: 2
 title: "An Rmarkdown post"
 subtitle: ""
 excerpt: "testing the excerpt field"
-date: 2020-12-30
+date: 2022-10-25
 author: "Alison Hill"
 draft: false
 images:
