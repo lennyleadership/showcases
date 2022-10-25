@@ -17,9 +17,6 @@ knitr::opts_chunk$set(collapse = TRUE)
 library(ggplot2)
 library(dplyr)
 library(tidyverse)
-library(gganimate)
-library(transformr)
-theme_set(theme_bw())
 ```
 
 
@@ -60,10 +57,7 @@ Indeed, it looks like the whole thing is a rotating rigid body.
 p_2 <- ggplot(cars, aes(x = speed, y = dist))+
   geom_point()
 
-ggsave(plot = p_2, filename = "index_files/figure-html/p_2.png", width = 4, height = 4)
-
-
-print(p_2)
+p_2
 
 ```
 
