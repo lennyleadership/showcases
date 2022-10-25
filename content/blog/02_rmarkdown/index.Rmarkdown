@@ -4,7 +4,7 @@ title: "An Rmarkdown post"
 subtitle: ""
 excerpt: "testing the excerpt field"
 date: 2022-10-25
-author: "Alison Hill"
+author: "Lenny Lin"
 draft: false
 images:
 series:

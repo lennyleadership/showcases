@@ -2,7 +2,6 @@ library(blogdown)
 
 blogdown::new_site(theme = "hugo-apero/hugo-apero")
 
-
 blogdown::build_site()
 
 blogdown::serve_site()
