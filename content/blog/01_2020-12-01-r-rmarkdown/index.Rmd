@@ -37,4 +37,6 @@ pie(
 ```
 
 
-<img src = "/A_Blog with R/showcases/content/blog/02_rmarkdown/index_files/figure-html/p_2.png" />
+
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/p_2.png" />
