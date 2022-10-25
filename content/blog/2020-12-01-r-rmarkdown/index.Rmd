@@ -68,7 +68,5 @@ print(p_2)
 ```
 
 
-<br>
-<figure>
-  <img width = "540" src = "/2020-12-01-r-rmarkdown/index_files/figure-html/p_2.png"/>
-</figure>
+
+<img width = "540" src = "/2020-12-01-r-rmarkdown/index_files/figure-html/p_2.png"/>
