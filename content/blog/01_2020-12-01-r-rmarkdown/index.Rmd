@@ -40,3 +40,4 @@ pie(
 
 
 <img src="{{< blogdown/postref >}}index_files/figure-html/p_2.png" />
+

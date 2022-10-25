@@ -6,8 +6,7 @@ excerpt: "testing the excerpt field"
 date: 2022-10-25
 author: "Alison Hill"
 draft: false
-images: 
-- img/R&D-lab-caricature.jpg
+images:  "img/R&D-lab-caricature.jpg"
 series:
 tags:
 categories:
