@@ -7,9 +7,7 @@ date: "2022-10-25"
 draft: false
 ---
 
-SAS 
-
-Fractional factorial design
+Demonstrate fractional factorial design in optimizing the ESI parameter
 
 <!--more-->
 ---

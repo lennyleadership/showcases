@@ -5,7 +5,7 @@ description: |
   Our first day together is all about building and publishing.
 excerpt: null
 layout: single-series
-draft: true
+draft: false
 publishDate: "2021-01-22"
 show_author_byline: false
 show_post_date: false
