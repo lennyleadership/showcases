@@ -11,7 +11,7 @@ show_post_date: false
 show_post_thumbnail: true
 subtitle: All about Day 02 of 'Introduce Yourself Online'.
 title: Day 02
-weight: 3
+weight: 93
 draft: false
 ---
 
