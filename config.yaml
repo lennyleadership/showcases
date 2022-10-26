@@ -86,13 +86,13 @@ taxonomies:
   tag: tags
 menu:
   footer:
+    - name: Comments
+      title: Contact form
+      url: /contact/
+      weight: 1
     - name: License
       title: License
       url: /license/
-      weight: 1
-    - name: Contact
-      title: Contact form
-      url: /contact/
       weight: 2
     - name: Contributors
       title: Contributors
