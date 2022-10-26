@@ -1,23 +1,6 @@
 // Override this file to add your own SCSS styling.
 
-h1{
-    font-weight: normal;
-    line-height: 1;
-    margin-top: 1.5em;
-    margin-bottom: $padding-16;
 
-    a.anchor {
-      opacity: 0;
-      font-size: 0.75em;
-      vertical-align: middle;
-      text-decoration: none;
-    }
-
-    &:hover a.anchor,
-    a.anchor:focus {
-      opacity: initial;
-    }
-  }
   
 .row {
   margin-left:5px;
