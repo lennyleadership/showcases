@@ -22,7 +22,7 @@ sidebar:
     and pagination. Even this sidebar offers \na ton of customizations.\n\nCheck out
     the _index.md file in the /blog folder \nto edit this content. \n"
   show_sidebar_adunit: true
-  text_link_label: Subscribe via RSS
+  text_link_label: #Subscribe via RSS
   text_link_url: /index.xml
   title: A Sidebar for Your Thoughts
 thumbnail_left: true
