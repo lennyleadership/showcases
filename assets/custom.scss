@@ -4,11 +4,36 @@ h1 { /* Header 1 */
   font-size: 22px;
   font-weight: bold;
   font-family: Garamond;
-  color: black;
   margin-top: 50px;
   margin-bottom: 20px;
 }
   
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-transform: uppercase;
+    font-weight: bolder;/*normal*/
+    font-size: 1rem;
+    line-height: 1;
+    margin-top: 1.5em;
+    margin-bottom: $padding-16;
+
+    a.anchor {
+      opacity: 0;
+      font-size: 0.75em;
+      vertical-align: middle;
+      text-decoration: none;
+    }
+
+    &:hover a.anchor,
+    a.anchor:focus {
+      opacity: initial;
+    }
+  }
+
 .row {
   margin-left:5px;
   margin-right:-5px;
