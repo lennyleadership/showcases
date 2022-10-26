@@ -7,7 +7,6 @@ number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
 I take pride in my job, and have always been enjoying in my job.  
-Visual Basic for Application, R, R Markdown, Shiny app, SQL, HTML, and css.  
 Statistical Analysis, Design of Experiments.
 Data Analysis, Data Visualization.
 show_outro: true
