@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Optimize the ESI Parameters of LC-MSMS
+title: Optimize a LC-MS/MS Method
 subtitle:  
 excerpt: 
 date: "2022-10-25"
@@ -9,8 +9,7 @@ draft: false
 
 <!--more-->
 ---
-## Why need to optimize the ESI parameters?
-
+## Method development
 
 We adjust the ESI (electrospray ionization) parameters of a LC-MS/MS to increase the sensitivity of analytes during the method development and validation stage.
 
