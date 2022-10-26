@@ -5,11 +5,14 @@ subtitle:
 excerpt: 
 date: "2022-10-25"
 draft: false
+layout: single-series
 ---
 
 <!--more-->
 ---
 ## Method development
+
+LC-MS/MS, mass spectrometer, UPLC, sensitivity, resolution, interference, 
 
 We adjust the ESI (electrospray ionization) parameters of a LC-MS/MS to increase the sensitivity of analytes during the method development and validation stage.
 
@@ -24,7 +27,7 @@ It is empirical, but it overlooks the interactions between parameters.  The desi
 2) Design of experiments approach
 
 
-## software Options of Design of Experiments 
+## Software Options of Design of Experiments 
 Commercially available software <a href = "https://www.statgraphics.com/centurion-overview" target="_blank" rel="noopener noreferrer">Statgraphics Centurion XVI</a> (Statgraphics Technologies, Inc.)
 
 R packages
