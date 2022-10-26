@@ -11,13 +11,13 @@ intro: |
   I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
   
   I am a veteran rat in laboratory settings. I have experience in variety of instrumentation, 'LC-MS/MS', 'GC-MS/MS', GC-MS, ICP-OES, IC, Mercury analyzer, Gross Beta counter, Liquid Scintillation counter, and so on.
-
+<br>
 I take pride in my job, and have always been enjoying in my job.
-
+<br>
 Visual Basic for Application (or called macro), R, R Markdown, Shiny app, SQL, HTML, and css.
-
+<br>
 Statistical Analysis, Design of Experiments
-
+<br>
 Data Analysis, Data Visualization.
 show_outro: true
 outro: |
