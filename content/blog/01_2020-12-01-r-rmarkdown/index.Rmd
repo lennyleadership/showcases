@@ -10,6 +10,16 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
+
+```{r, include=F}
+library(ggplot2)
+library(dplyr)
+library(tidyverse)
+
+library(htmlwidgets)
+library(htmltools)
+```
+
 # R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
@@ -41,16 +51,7 @@ pie(
 p <- ggplot(cars, aes(x = speed, y = dist))+
   geom_point()
 
-htmlwidgets::saveWidget(p, "index.html")
 
-htmltools::tags$iframe(
-  src=file.path(getwd(), "index.html"),
-  width="100%",
-  height="600",
-  scrolling="no",
-  seamless="seamless",
-  frameBorder="0"
-)
 
 ggsave(plot = p, filename = "index_files/figure-html/p.png", width = 4, height = 4)
 

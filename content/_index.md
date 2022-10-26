@@ -1,9 +1,9 @@
 ---
-title: R in Laboratory
+title: laboRatoRy 
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am a lab rat. <br>I am a tech geek. <br>I believe in the power of the R applications in laboratory.
+description: The power of the R applications in laboratory.
 image_left: true
 images:
 - img/ImageForArticle_22489_16522590766908435.webp
