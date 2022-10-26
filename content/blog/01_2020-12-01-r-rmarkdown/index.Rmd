@@ -37,7 +37,25 @@ pie(
 ```
 
 
+```{r, include=F}
+p <- ggplot(cars, aes(x = speed, y = dist))+
+  geom_point()
+
+htmlwidgets::saveWidget(p, "index.html")
+
+htmltools::tags$iframe(
+  src=file.path(getwd(), "index.html"),
+  width="100%",
+  height="600",
+  scrolling="no",
+  seamless="seamless",
+  frameBorder="0"
+)
+
+ggsave(plot = p, filename = "index_files/figure-html/p.png", width = 4, height = 4)
+
+```
 
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/p_2.png" />
+
 

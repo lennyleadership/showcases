@@ -1,4 +1,5 @@
 ---
+title: R in Laboratory
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
@@ -10,7 +11,6 @@ show_action_link: true
 show_social_links: true
 subtitle: Lenny Lin | Whiteshell Laboratory and Informatics
 text_align_left: false
-title: R in Laboratory
 type: home
 ---
 
