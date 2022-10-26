@@ -35,7 +35,7 @@ params:
   customtextFontFamily: Commissioner
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
   favicon: /img/depositphotos_68973015-stock-illustration-letter-l-logo-icon-design.jpg
-  headingFontFamily: sans-serif
+  headingFontFamily: Garamond
   logo: /img/depositphotos_68973015-stock-illustration-letter-l-logo-icon-design.jpg
   mainSections:
     - blog
