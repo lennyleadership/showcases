@@ -15,6 +15,7 @@ Visual Basic for Application (or called macro), R, R Markdown, Shiny app, SQL, H
 Statistical Analysis, Design of Experiments
 
 Data Analysis, Data Visualization.
+show_outro: true
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
 ---
