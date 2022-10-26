@@ -39,8 +39,8 @@ params:
   logo: /img/depositphotos_68973015-stock-illustration-letter-l-logo-icon-design.jpg
   mainSections:
     - blog
-    - project
-    - talk
+    #- project
+    #- talk
   math:
     renderer: katex
   navallcaps: yes
