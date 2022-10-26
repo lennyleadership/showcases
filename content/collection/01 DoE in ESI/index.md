@@ -26,7 +26,9 @@ It is empirical, but it overlooks the interactions between parameters.  The desi
 
 
 ## software Options of Design of Experiments 
+Commercially available software <a href = "https://www.statgraphics.com/centurion-overview" target="_blank" rel="noopener noreferrer">Statgraphics Centurion XVI</a> (Statgraphics Technologies, Inc.)
 
+R packages
 
 ## Reference
 
