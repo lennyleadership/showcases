@@ -1,47 +1,125 @@
 // Override this file to add your own SCSS styling.
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    text-transform: uppercase;
-    font-weight: bolder;/*normal*/
-    font-size: 1rem;
-    line-height: 1;
-    margin-top: 1.5em;
-    margin-bottom: $padding-16;
-
-    a.anchor {
-      opacity: 0;
-      font-size: 0.75em;
-      vertical-align: middle;
-      text-decoration: none;
-    }
-
-    &:hover a.anchor,
-    a.anchor:focus {
-      opacity: initial;
-    }
-  }
-
-  h3{
-    font-style: italic;
-    font-size: .8rem;
-  }
+.row {
+  margin-left:5px;
+  margin-right:-5px;
   
-  h4,
-  h5,
-  h6 {
-    font-weight: bolder;
-  }
+}
+  
+.column_left {
+  float: left;
+  padding: 20px; /* space between two tables*/
+  
+}
 
-  h5 {
-    font-size: 0.875em;
-  }
+.column_right {
+  float: right;
+  padding: 20px; /* space between two tables*/
+  
+}
 
-  h6 {
-    font-size: 0.75em;
-  }
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/* end of side-by-side*/
 
+/* section: Tooltip */
+.hovertip {
+  position: relative;
+  border-bottom: 1px dotted black;
+}
+
+.hovertip:before {
+  content: attr(tooltip_text);
+  visibility: hidden;
+  
+  overflow-y: inherit; /*new*/
+
+  width: 250px;
+  background-color: #add8e6;
+  color: black;
+  text-align: left;
+  border-radius: 5px;
+  padding: 5px 0;
+  /* fade-in*/
+  opacity: 0;  
+  transition: opacity 1s ease-in-out;
+
+  /* top tooltip*/
+  position: absolute; /*let tooltip wrap instead of overflow*/
+  z-index: 1;
+  left: 50%; /*auto;*/
+  bottom: 110%; /*auto;*/
+  margin-left: -60px;
+}
+
+.hovertip.hovertiptext::before {
+  content: " ";
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.hovertip:hover:before {
+  opacity: 1;
+  visibility: visible;
+}
+/* Section end*/
+
+
+/* set the figure caption with the same wide of figure*/
+.caption_display {
+   display: inline-block;
+}
+/* the end */
+
+
+/*color style of hyperlink*/
+a:link {
+  color: darkred;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+/* the end*/
+
+
+/* quoting with background */
+.quote {
+  margin: 0;
+  background: #eee;
+  padding: 0.5em;
+  border-radius: 1em;
+}
+.quote figcaption,
+.quote blockquote {
+  margin: 1em;
+}
+/* the end */
+
+
+.font_upper {
+  text-transform: uppercase;
+  font-size: 1rem;
+}
