@@ -11,7 +11,7 @@ draft: false
 ---
 ## Why need to optimize the ESI parameters?
 
-ESI stands for .
+
 We adjust the ESI (electrospray ionization) parameters of a LC-MS/MS to increase the sensitivity of analytes during the method development and validation stage.
 
 There are many parameters, such as: gas temperature, gas flow, sheath gas temperature, sheath gas flow, capillary voltage, nozzle voltage, and nebulizer pressure. 
