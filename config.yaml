@@ -86,7 +86,7 @@ taxonomies:
   tag: tags
 menu:
   footer:
-    - name: Comments
+    - name: Send me a Note
       title: Contact form
       url: /contact/
       weight: 1
