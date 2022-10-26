@@ -87,7 +87,7 @@ taxonomies:
 menu:
   footer:
     - name: Message
-      title: Contact form
+      title: Message
       url: /contact/
       weight: 1
     - name: License
@@ -111,6 +111,10 @@ menu:
       title: Blog
       url: /blog/
       weight: 3
+    - name: Contact
+      title: Contact
+      url: /contact/
+      weight: 4
     #- name: Projects
     #  title: Project Portfolio
     #  url: /project/
