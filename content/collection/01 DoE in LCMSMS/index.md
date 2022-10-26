@@ -11,9 +11,9 @@ layout: single-series
 
 <!--more-->
 ---
-## Method development
+## The Complexity of Method Development
 
-LC-MS/MS, mass spectrometer, UPLC, sensitivity, resolution, interference, 
+A LC-MS/MS instrument composes of two components: a UPLC chromatography with a sample introduction system, and a triple quadruple mass spectrometer. A mass spectrometrist takes sensitivity, resolution, interference, and so on into consideration. They start with default instrumental parameters of each component, then fine-tune them to reach the best output they could get in a requested time frame.  These parameters could be: flow (*F*), gradient (*G*), and injection volume (*V*<sub>inj</sub>) of the UPLC chromatography; co
 
 We adjust the ESI (electrospray ionization) parameters of a LC-MS/MS to increase the sensitivity of analytes during the method development and validation stage.
 
