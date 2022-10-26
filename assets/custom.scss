@@ -1,7 +1,7 @@
 // Override this file to add your own SCSS styling.
 
 h1 { /* Header 1 */
-  font-size: 22px;
+  font-size: 1rem;
   font-weight: bold;
   font-family: Garamond;
   text-transform: uppercase;
@@ -9,8 +9,8 @@ h1 { /* Header 1 */
   margin-bottom: 20px;
 }
   
-h2 {
-  font-weight: bolder;/*normal*/
+h2,h3 {
+  font-weight: normal;/*normal*/
   font-size: 1rem;
   font-family: Garamond;
   line-height: 1;
