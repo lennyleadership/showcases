@@ -1,16 +1,14 @@
 ---
-date: "2019-02-25T13:38:41-06:00"
-description: This template has a **contact-us** form built right in. All you need
-  to do is add a valid recipient form-id to the front matter of this form page and
-  you're ready to receive submissions.
+title: Comments
+date: "2022-10-26"
+description: I love to hear from you.
 draft: false
-formspree_form_id: lenny.business@hotmail.com
+formspree_form_id: xlevpnap
 layout: split-right
 name: Lenny Lin
 show_poweredby_formspree: true
 show_social_links: true
 submit_button_label: Send Message
-title: Contact
 type: form
 url: contact
 ---
