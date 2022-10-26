@@ -8,11 +8,11 @@ audio_link_label: "" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Separation Science | SPE | LC | GC
-  #url: 
+  url: 
 - name: R | R Markdown | Shiny app
-  #url: 
+  url: 
 - name: Design of Experiments
-  #url: 
+  url: 
 - name: Statistical Analysis
 ---
 
