@@ -4,7 +4,7 @@ cascade:
   layout: single-series
   sidebar:
     author: Lenny Lin
-    description: "Here are some applications in method validation, statistical analysis, untargeted metabolomics, and environmental monitoring"
+    description: "Here are some demonstration of R applications in method validation, statistical analysis, untargeted metabolomics, and environmental monitoring"
     show_author_byline: true
     show_post_date: true
     show_sidebar_adunit: true
@@ -12,7 +12,7 @@ cascade:
     text_link_label: ""
     text_link_url: ""
     text_series_label: Outline
-    title: Create a Collection
+    title: R Applications
 description: ""
 layout: list-sidebar
 show_author_byline: false
