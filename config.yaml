@@ -71,7 +71,7 @@ params:
     #  url: /blog/index.xml
   socialInFooter: yes
   socialInHeader: no
-  textFontFamily: sans-serif
+  textFontFamily: garamond # sans-serif
   theme: sky
   twitter: apreshill
   utterances:
