@@ -1,9 +1,9 @@
 ---
-title: laboRatoRy 
+title: labo-R-atory 
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: The power of the R applications in laboratory.
+description: The power of the R applications in laboratory is demonstrated here.
 image_left: true
 images:
 - img/ImageForArticle_22489_16522590766908435.webp

@@ -2,7 +2,7 @@ baseURL: /
 theme: hugo-apero
 languageCode: en
 title: Hugo Apéro
-author: Alison Hill
+author: Lenny Lin
 copyright: ''
 googleAnalytics: ''
 disqusShortname: ''
@@ -86,18 +86,14 @@ taxonomies:
   tag: tags
 menu:
   footer:
-    - name: Message
-      title: Message
-      url: /contact/
-      weight: 1
     - name: License
       title: License
       url: /license/
-      weight: 2
+      weight: 1
     - name: Contributors
       title: Contributors
       url: /contributors/
-      weight: 3
+      weight: 2
   header:
     - name: About
       title: About Blogophonic
@@ -123,7 +119,6 @@ menu:
     #  title: Talks
     #  url: /talk/
     #  weight: 4
-
     #- name: Elements
     #  title: Element Page
     #  url: /elements/
