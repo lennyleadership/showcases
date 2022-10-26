@@ -32,5 +32,4 @@ Commercially available software <a href = "https://www.statgraphics.com/centurio
 R packages
 
 ## Reference
-
 [^1]: Moreiras, G., Leão, J. M., & Gago-Martínez, A. (2018). Design of Experiments for the Optimization of Electrospray Ionization in the LC-MS/MS Analysis of Ciguatoxins. Journal of Mass Spectrometry. doi:10.1002/jms.4281

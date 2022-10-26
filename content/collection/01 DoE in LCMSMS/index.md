@@ -1,9 +1,10 @@
 ---
 weight: 1
-title: Optimize a LC-MS/MS Method
+title: Design of Experiments Approach to LC-MS/MS Method Development
 subtitle:  
 excerpt: 
 date: "2022-10-25"
+publishDate: "2022-10-26"
 draft: false
 layout: single-series
 ---

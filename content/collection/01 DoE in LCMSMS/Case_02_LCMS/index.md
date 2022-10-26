@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 2
 title: Optimize a LC-MS/MS Method
 subtitle:  
 excerpt: 
