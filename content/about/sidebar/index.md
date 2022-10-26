@@ -7,12 +7,13 @@ show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Separation Science | SPE | GC | LC
-  url: 
+- name: Separation Science | SPE | LC | GC
+  #url: 
 - name: R | R Markdown | Shiny app
-  url: 
+  #url: 
 - name: Design of Experiments
-  url: 
+  #url: 
+- name: Statistical Analysis
 ---
 
 ** index doesn't contain a body, just front matter above.
