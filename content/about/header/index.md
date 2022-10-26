@@ -3,17 +3,10 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  The journey begins
+  Hi, my name is Hugo Apéro. Nice to meet you.
 ---
-I am a veteran rat in laboratory settings. I have experience in variety of instrumentation, LC-MS/MS, GC-MS/MS, GC-MS, ICP-OES, IC, Mercury analyzer, Gross Beta counter, Liquid Scintillation counter, and so on.
-
-I take pride in my job, and have always been enjoying in my job.
-
-Visual Basic for Application (or called macro), R, R Markdown, Shiny app, SQL, HTML, and css.
-
-Statistical Analysis, Design of Experiments
-
-Data Analysis, Data Visualization.
 
 <!-- this is a subheadline -->
+I'm a Hugo theme you'll want to hang out with. :fr: 
 
+The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
