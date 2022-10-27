@@ -72,7 +72,7 @@ params:
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: garamond # sans-serif
-  theme: sky
+  theme: forest # forest / grayscale / peach / plum / poppy / sky / violet / water
   twitter: apreshill
   utterances:
     issue_term: pathname
