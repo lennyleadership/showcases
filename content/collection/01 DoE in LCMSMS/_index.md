@@ -28,11 +28,11 @@ It is empirical, but it overlooks the interactions between parameters.  The desi
 2) Design of experiments approach
 
 
-## Software Options of Design of Experiments 
-Commercially available software <a href = "https://www.statgraphics.com/centurion-overview" target="_blank" rel="noopener noreferrer">Statgraphics Centurion XVI</a> (Statgraphics Technologies, Inc.)
+## Commercially available software
+<a href = "https://www.statgraphics.com/centurion-overview" target="_blank" rel="noopener noreferrer">Statgraphics Centurion XVI</a> (Statgraphics Technologies, Inc.)
 
 R packages
 
 ## Reference
 
-[^1]: Moreiras, G., Leão, J. M., & Gago-Martínez, A. (2018). Design of Experiments for the Optimization of Electrospray Ionization in the LC-MS/MS Analysis of Ciguatoxins. Journal of Mass Spectrometry. doi:10.1002/jms.4281
+[^1]: Moreiras, G., Leão, J. M., & Gago-Martínez, A. (2018). Design of Experiments for the Optimization of Electrospray Ionization in the LC-MS/MS Analysis of Ciguatoxins. <i>Journal of Mass Spectrometry</i>. doi:10.1002/jms.4281
