@@ -34,9 +34,9 @@ params:
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
-  favicon: /img/depositphotos_68973015-stock-illustration-letter-l-logo-icon-design.jpg
+  favicon: /img/horse-icon.jpg
   headingFontFamily: Garamond
-  logo: /img/depositphotos_68973015-stock-illustration-letter-l-logo-icon-design.jpg
+  logo: /img/horse-icon.jpg
   mainSections:
     - blog
     #- project
